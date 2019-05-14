@@ -1,3 +1,3 @@
-function rectangle_click() {
-    alert("Boooo!");
+window.onload = function() {
+	console.log('task 2');
 }
